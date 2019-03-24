@@ -27,7 +27,7 @@ The major libraries used in these projects are:
 
 3- finding_donors: clustering and classification example by using **scikitlearn** library
 
-4- finding_donors2: more sofisticated clustering example by using **scikitlearn** library
+4- 4-Identify_Customer_Segments: more sofisticated clustering example by using **scikitlearn** library
 
 5-1-Image Classifier Project_PyTorch: An image classifier example using **PyTorch**
 
